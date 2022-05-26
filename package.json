@@ -14,13 +14,14 @@
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
     "safe-buffer": "^5.2.1",
+    "stream-browserify": "^3.0.0",
     "timers": "^0.1.1",
     "web-vitals": "^2.1.4",
     "xml2js": "^0.4.23"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm i stream-browserify && react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
